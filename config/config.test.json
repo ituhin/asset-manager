@@ -1,0 +1,10 @@
+{
+    "live": true,
+    "stable_assets": ["USDT", "USDC", "FDUSD", "EURO", "JPY"],
+    "skip_assets": ["BTC", "ETH", "USDT", "USDC", "FDUSD", "TUSD"],
+    "skip_small_asset_usd": 200,
+    "accounts": {
+        "binance": ["test"],
+        "kraken": ["test"]
+    }
+}

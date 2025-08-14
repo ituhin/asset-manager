@@ -1,0 +1,12 @@
+{
+    "live": true,
+    "stable_assets": ["USDT", "USDC", "FDUSD", "EURO", "JPY", "USD"],
+    "skip_assets": ["BTC", "USDT", "USDC", "FDUSD", "TUSD", "USD"],
+    "skip_small_asset_usd": 10,
+    "accounts": {
+        "binance": ["tuhin", "barua", "monu"],
+        "kraken": ["monu"],
+        "coinbase": ["monu"],
+        "bitfinex": ["tuhin", "barua"]
+    }
+}

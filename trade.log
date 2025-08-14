@@ -1,0 +1,46 @@
+2024-12-07 01:59:44,136 - Error: Can't instantiate abstract class Bitfinex with abstract methods get_balance
+2024-12-07 02:02:19,132 - Error: Can't instantiate abstract class Bitfinex with abstract methods get_balance
+2024-12-07 04:10:43,131 - Error: list index out of range
+2024-12-10 05:14:59,127 - Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-12-12 18:03:13,832 - Error: string indices must be integers
+2024-12-12 18:04:58,589 - Error: string indices must be integers
+2024-12-12 18:05:13,739 - Error: string indices must be integers
+2024-12-12 18:09:58,875 - Error: string indices must be integers
+2024-12-12 18:10:56,529 - Error: string indices must be integers
+2024-12-12 18:12:06,699 - Error: string indices must be integers
+2024-12-12 18:18:23,043 - Error: handle_margin() takes 0 positional arguments but 1 was given
+2024-12-12 18:39:32,907 - Error: list index out of range
+2024-12-12 19:18:11,537 - Error: list index out of range
+2024-12-12 20:15:15,833 - Error: list index out of range
+2024-12-12 20:35:39,605 - Error: handle_margin() missing 1 required positional argument: 'config'
+2024-12-12 23:20:14,987 - Error: list index out of range
+2024-12-15 00:51:14,537 - Python-dotenv could not parse statement starting at line 27
+2024-12-15 00:51:51,062 - Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-12-15 00:52:03,816 - Error: Expecting value: line 1 column 1 (char 0)
+2024-12-15 00:54:35,504 - Error: Expecting value: line 1 column 1 (char 0)
+2024-12-15 00:55:20,275 - Error: Expecting value: line 1 column 1 (char 0)
+2024-12-15 00:56:22,100 - Error: Expecting value: line 1 column 1 (char 0)
+2024-12-15 01:05:40,422 - Error: Expecting value: line 1 column 1 (char 0)
+2024-12-15 02:16:43,372 - Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-12-15 02:58:17,865 - Buy 0.16 of BCH on coinbase_monu
+2024-12-15 02:58:17,866 - Buy 0.3 of LTC on coinbase_monu
+2024-12-15 03:17:12,518 - HTTP Error: 400 Client Error: Bad Request {"error":"unknown","error_details":"proto: (line 1:156): invalid value for string field baseSize: 0.16","message":"proto: (line 1:156): invalid value for string field baseSize: 0.16"}
+2024-12-15 03:17:12,519 - Buy 0.16 of BCH on coinbase_monu
+2024-12-15 03:17:12,974 - HTTP Error: 400 Client Error: Bad Request {"error":"unknown","error_details":"proto: (line 1:156): invalid value for string field baseSize: 0.3","message":"proto: (line 1:156): invalid value for string field baseSize: 0.3"}
+2024-12-15 03:17:12,974 - Buy 0.3 of LTC on coinbase_monu
+2024-12-15 03:21:06,053 - HTTP Error: 400 Client Error: Bad Request {"error":"unknown","error_details":"proto: (line 1:157): invalid value for string field quoteSize: 0.16","message":"proto: (line 1:157): invalid value for string field quoteSize: 0.16"}
+2024-12-15 03:21:06,054 - Buy 0.16 of BCH on coinbase_monu
+2024-12-15 03:21:06,492 - HTTP Error: 400 Client Error: Bad Request {"error":"unknown","error_details":"proto: (line 1:157): invalid value for string field quoteSize: 0.3","message":"proto: (line 1:157): invalid value for string field quoteSize: 0.3"}
+2024-12-15 03:21:06,493 - Buy 0.3 of LTC on coinbase_monu
+2024-12-15 03:31:55,205 - Buy 0.16 of BCH on coinbase_monu
+2024-12-15 03:31:55,661 - Buy 0.3 of LTC on coinbase_monu
+2024-12-16 04:58:57,104 - Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-12-17 18:51:52,662 - Error: list index out of range
+2024-12-19 02:31:25,971 - Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-12-19 02:32:21,151 - Buy 56.0 of FET on binance_barua
+2024-12-19 02:32:21,479 - Buy 10.0 of RENDER on binance_barua
+2024-12-19 02:32:21,816 - Buy 10.0 of DOT on binance_barua
+2024-12-19 02:32:22,152 - Buy 12.0 of NEAR on binance_barua
+2024-12-19 02:32:22,486 - Buy 30.0 of XRP on binance_barua
+2024-12-19 02:32:22,819 - Buy 0.1 of SOL on binance_barua
+2024-12-19 02:32:23,150 - Buy 0.01 of BNB on binance_barua

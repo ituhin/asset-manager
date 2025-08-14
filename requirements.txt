@@ -1,0 +1,5 @@
+python-dotenv
+python-binance
+coinbase-advanced-py
+krakenex
+bitfinex-api-py
