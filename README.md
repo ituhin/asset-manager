@@ -6,8 +6,12 @@ Can be used as panic button too :)
 2. configure config.json
 eg: 
 "live": true, // if set to false, it do not connect to exchange apis for buy/sell, only prints for simulation
-"skip_assets": ["BTC", "USDT", "USDC", "FDUSD", "TUSD", "USD"], // buy or sell actions wont be applicable on these mentioned assets, mention the fiats you have here, and assets you dont want to touch
-"skip_small_asset_usd": 10, // in USD, assets which are very small in size wont be touched at all, eg: 10 USD or less in values will be ignored from displaying or buy/sell.
+
+"skip_assets": ["BTC", "USDT", "USDC", "FDUSD", "TUSD", "USD"], 
+// buy or sell actions wont be applicable on these mentioned assets, mention the fiats you have here, and assets you dont want to touch
+
+"skip_small_asset_usd": 10, 
+// in USD, assets which are very small in size wont be touched at all, eg: 10 USD or less in values will be ignored from displaying or buy/sell.
 
 "accounts": {
         "binance": ["tuhin", "barua", "monu"], // account aliases, we can add multiple accounts from the same exchange
