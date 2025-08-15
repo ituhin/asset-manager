@@ -1,4 +1,6 @@
-Crypto asset manager, to easily manage 100s of assets across many exchanges and accounts pair at once. Useful when you have lot of assets spread across multiple exchanges/accounts.
+## Crypto asset manager: 
+to easily manage 100s of assets across many exchanges and accounts pair at once. Useful when you have lot of assets spread across multiple exchanges/accounts and wants to take quick actions or get all status reports from everywhere.
+
 Can be used as panic button too :)
 
 ## Installation 
