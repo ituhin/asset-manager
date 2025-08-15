@@ -1,7 +1,7 @@
-## Crypto asset manager: 
+<h2>Crypto asset manager </h2>
 to easily manage 100s of assets across many exchanges and accounts pair at once. Useful when you have lot of assets spread across multiple exchanges/accounts and wants to take quick actions or get all status reports from everywhere.
 
-Can be used as panic button too :)
+<h5>Can be used as crypto panic button too :)</h5>
 
 ## Installation 
 ```
