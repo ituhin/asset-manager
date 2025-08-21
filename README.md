@@ -4,6 +4,7 @@ to easily manage 100s of assets across many exchanges and accounts pair at once.
 <h5>Can be used as crypto panic button too :)</h5>
 
 ## Installation 
+python3 required
 ```
 pip install -r requirements.txt
 ```
@@ -46,7 +47,7 @@ pip install -r requirements.txt
 
 ## Running the app
 ```bash
-python main.py
+python3 main.py
 ```
 
 you will get a ```$$$``` prompt which takes commands
