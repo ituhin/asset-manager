@@ -57,15 +57,6 @@ there are 3 commands currently --> ```balance, buy, sell``` - each actions can t
 
 1. ```balance {exchange_account}``` -> eg: "balance coinbase_tuhin" will fetch all assets from the target exchange_account pair and list them down in sorted order by the USD amount, and display total value
 
-```
-💰$$$ balance coinbase_tuhin
-2025-15-08 02:40:08
-Fetching balance for coinbase_tuhin...
-XRP                 4499.839       13834.76       coinbase_tuhin
-USD                 1618.50636318  1618.51        coinbase_tuhin
-------------------------------------------------------------
-Total Value for Account                           15453.26 
-```
 2. ```balance or balance all``` -> will fetch all the assets as per the exchanges/accounts pair configured in config, in the same order as config, grouped by exchange_account as displayed above
    
 3. ```buy {percent} {exchange_account}``` -> eg: "buy 20 binance_tuhin" -- will try to increase 20% of each existing asset postion, if XRP exists in the account and existing XRP size is 100, it would try to buy 20 more at market order, success or failure of the order depends on the fiat USD/USDC/USDT available in the account.
@@ -75,4 +66,14 @@ Total Value for Account                           15453.26
 
 Note: currently base fiat set as USD in kraken, coinbase, bitfinex, and USDC in binance as base pair, in the respective exchanges file.
 
+## Example
 
+```
+💰$$$ balance coinbase_tuhin
+2025-15-08 02:40:08
+Fetching balance for coinbase_tuhin...
+XRP                 4499.839       13834.76       coinbase_tuhin
+USD                 1618.50636318  1618.51        coinbase_tuhin
+------------------------------------------------------------
+Total Value for Account                           15453.26 
+```
